@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_bg">#ECF4F9</color>
+
+
+    <color name="color949494">#949494</color>
+    <color name="color3076FF">#3076FF</color>
+    <color name="color26A1FF">#26A1FF</color>
+    <color name="color87CEFF">#87CEFF</color>
+    <color name="color3F4A53">#3F4A53</color>
+    <color name="color413E3E">#413E3E</color>
+    <color name="color7E9DB9">#7E9DB9</color>
+    <color name="color317CFF">#317CFF</color>
+    <color name="colorD8EFFF">#D8EFFF</color>
+    <color name="colorF5F5F5">#F5F5F5</color>
+    <color name="color3285FA">#3285FA</color>
+    <color name="color4A4A4A">#4A4A4A</color>
+    <color name="color3A3A3A">#3A3A3A</color>
+    <color name="color67849D">#67849D</color>
+    <color name="colorCFD9DE">#CFD9DE</color>
+    <color name="colorD3ECF9">#D3ECF9</color>
+    <color name="color464646">#464646</color>
+    <color name="color797878">#797878</color>
+    <color name="colorEFEFF4">#EFEFF4</color>
+    <color name="color919090">#919090</color>
+    <color name="colorFF0101">#FF0101</color>
+    <color name="colorFB0029">#FB0029</color>
+    <color name="colorF39800">#F39800</color>
+    <color name="color3A9646">#3A9646</color>
+    <color name="color99F2F2F2">#99F2F2F2</color>
+    <color name="colorFFC71B">#FFC71B</color>
+    <color name="colorFFFFFF">#FFFFFF</color>
+    <color name="color1CABEB">#1CABEB</color>
+    <color name="colorDEDEDE">#DEDEDE</color>
+    <color name="colorC2C2C2">#C2C2C2</color>
+    <color name="colorD7D7D7">#D7D7D7</color>
+    <color name="color333333">#333333</color>
+    <color name="colorC7C7C7">#C7C7C7</color>
+    <color name="colorDCDCDC">#DCDCDC</color>
+    <color name="colorEDEDED">#EDEDED</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="color26000000">#26000000</color>
+    <color name="colorCCCCCC">#CCCCCC</color>
+    <color name="colorF5F5F9">#F5F5F9</color>
+    <color name="color646464">#646464</color>
+    <color name="color8E8E8E">#8E8E8E</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorFFDDDDDD">#FFDDDDDD</color>
+    <color name="color3385FF">#3385FF</color>
+    <color name="color099FED">#099FED</color>
+    <color name="color60000000">#60000000</color>
+    <color name="color878A91">#878A91</color>
+
+    <color name="pickerview_timebtn_nor">#057dff</color>
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pickerview_wheelview_textcolor_out">#a8a8a8</color>
+    <color name="pickerview_wheelview_textcolor_center">#2a2a2a</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+
+</resources>
